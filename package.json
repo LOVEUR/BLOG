@@ -3,11 +3,19 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+<<<<<<< HEAD
         "build": "hexo generate",
         "clean": "hexo clean",
         "deploy": "hexo deploy",
         "server": "hexo server",
         "netlify": "npm run clean && npm run build"
+=======
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server",
+    "netlify": "npm run clean && npm run build" 
+>>>>>>> 0098866bdca7b172b577a613af53a77a38d3c624
   },
   "hexo": {
     "version": "7.3.0"
