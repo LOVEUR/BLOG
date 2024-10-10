@@ -12,13 +12,13 @@ base_info:
   author: IO
 
   # Author avatar, You can use local image path or image link
-  avatar: 
+  avatar: /images/avatar.svg
 
   # Website LOGO, You can use local image path or image link.
-  logo: 
+  logo: /images/logo.svg
 
   # Website favicon, You can use local image path or image link
-  favicon: 
+  favicon: /images/logo.svg
   #将博客网站的主题模式设置为暗夜模式
   #mode: light  # Option values: light | dark
 
