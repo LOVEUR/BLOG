@@ -2,9 +2,10 @@
 title: mysql初级
 date: 2024-09-06 23:33:06
 tags:
-    - 教程
-    - MySQL
-    - 初级
+  - 教程
+  - MySQL
+  - 初级
+
 ---
 <!-- ## 目录：
 
@@ -71,6 +72,7 @@ sql
    或输入`mysql -uroot -p`，使用root密码登陆数据库
    
    两种方法均可
+
 
 ## 缺少环境 Visual Studio 20 19 x64Redistributable
 
