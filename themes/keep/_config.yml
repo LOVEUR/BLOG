@@ -14,7 +14,7 @@ base_info:
   # Author avatar, You can use local image path or image link
   avatar: /images/avatar.svg
 
-  # Website LOGO, You can use local image path or image link
+  # Website LOGO, You can use local image path or image link.
   logo: /images/logo.svg
 
   # Website favicon, You can use local image path or image link
