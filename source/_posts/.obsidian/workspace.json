@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git使用手册.md",
+                "file": "一个效果简单不腻的桌面美化教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.5
   },
   "right": {
     "id": "9aea204ea9ff100f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git使用手册.md",
+                "file": "一个效果简单不腻的桌面美化教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git使用手册.md",
+                "file": "一个效果简单不腻的桌面美化教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git使用手册.md"
+                "file": "一个效果简单不腻的桌面美化教程.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +147,28 @@
   },
   "active": "4901fed4becada41",
   "lastOpenFiles": [
+    "source/_posts/photo/sou.png",
+    "source/_posts/photo/搜索程序.png",
+    "source/_posts/搜索程序.png",
+    "source/_posts/photo/音量控制插件.png",
+    "source/_posts/photo",
+    "source/_posts",
+    "source",
+    "photo/搜索程序.jpg",
+    "photo/OneNote笔记插件.png",
+    "photo/音量控制插件.png",
+    "photo/游戏插件.png",
+    "photo/搜索文件.png",
+    "photo/搜索程序.png",
+    "photo/最终效果图.png",
+    "photo",
+    "新建文件夹",
+    "如何拥有一个简单切看不腻的桌面.md",
+    "一个效果简单不腻的桌面美化教程.md",
     "mysql初级.md",
-    "git使用手册.md"
+    "git使用手册.md",
+    "资料分析.md",
+    "2024-10-07.md",
+    "MySQl第一节.md"
   ]
 }

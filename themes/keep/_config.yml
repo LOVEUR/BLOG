@@ -3,7 +3,7 @@
 #base_info 配置项用于设置你的博客网站基本信息。
 base_info:
   # Theme primary color.用于设置博客网站的主题颜色，支持 十六进制、rgb 和 rgba 颜色格式。
-  primary_color: "#0066cc"
+  primary_color: "#8c7ae6"
 
   # Blog website title
   title: 蟹老板的梦想
