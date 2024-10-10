@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: John Doe
-language: zh
+language: zh-CN   # 中文简体
 timezone: ''
 
 # URL
@@ -54,7 +54,12 @@ prismjs:
   preprocess: true
   line_number: true
   tab_replace: ''
-
+  enable: false
+search:
+  path: search.json
+  field: post
+  content: true
+  format: striptags
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -96,7 +101,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: paper
+theme: keep
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
