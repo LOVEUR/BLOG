@@ -31,8 +31,8 @@ base_info:
 menu:
   home: /                       # 首页|| fa-solid fa-home
   archives: /archives           # 归档|| fa-solid fa-box-archive
-  # tags: /tags                 # 标签|| fa-solid fa-tags
-  # categories: /categories     # 分类|| fa-solid fa-layer-group
+  tags: /tags                   # 标签|| fa-solid fa-tags
+  categories: /categories       # 分类|| fa-solid fa-layer-group
   # links: /links               # 链接|| fa-solid fa-link
   # photos: /photos             # 相册|| fa-solid fa-image
   # tools: /tools               # || fa-solid fa-tools
